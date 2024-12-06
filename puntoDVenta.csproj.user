@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CATEGORIAS\COMESTIBLES\ALCOHOLES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\COMESTIBLES\BEBIDAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\COMESTIBLES\CANASTABAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\COMESTIBLES\CARNICERIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\COMESTIBLES\SNACKS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\HOGARES\DECORACION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\HOGARES\ELECTRODOMESTICOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\HOGARES\HOGAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\HOGARES\MUEBLES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\HOGARES\VAJILLA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\LIMPIEZAS\ASEOPERSO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\LIMPIEZAS\LIMPIEZAAUTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\LIMPIEZAS\LIMPIEZAHOG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\LIMPIEZAS\UTENSILIOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\MASCOTA\ALIMENTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\MASCOTA\JUGUETES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\MASCOTA\PREMIOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\MASCOTA\ROPA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\REFACCION\ACCESORIOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\REFACCION\LIQUIDOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\REFACCION\LLANTAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\REFACCION\PIEZAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\TECNOLOGIA\COMPUTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\TECNOLOGIA\SMARTWATCH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\TECNOLOGIA\TELEFONIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\TECNOLOGIA\TELEVISORES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INVENTARIO\AÑADIR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\COMESTIBLES\COMESTIBLE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\LIMPIEZAS\LIMPIEZAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\MASCOTA\MASCOTA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\REFACCION\REFACCION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\TECNOLOGIA\TECNOLOGIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INVENTARIO\ELIMINAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INVENTARIO\NOMBRE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INVENTARIO\PRECIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INVENTARIO\STOCK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOGGEOS\agregarEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CATEGORIAS\Categorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INVENTARIO\Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOGGEOS\Menú.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOGGEOS\logIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ORDEN\Orden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VENTA\Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
